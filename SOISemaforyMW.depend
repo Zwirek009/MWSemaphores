@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1462791893 source:/home/zwirek/SOI/Lab 3/SOISemaforyMW/main.c
+	"queue.h"
+
+1462692821 /home/zwirek/SOI/Lab 3/SOISemaforyMW/library.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	</usr/include/sys/shm.h>
+	</usr/include/sys/types.h>
+	</usr/include/sys/ipc.h>
+	</usr/include/sys/sem.h>
+	</usr/include/sys/wait.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<sched.h>
+
+1462692771 source:/home/zwirek/SOI/Lab 3/SOISemaforyMW/producer.c
+	"library.h"
+
+1462656838 source:/home/zwirek/SOI/Lab 3/SOISemaforyMW/consumer.c
+	"library.h"
+
+1462662429 source:/home/zwirek/SOI/Lab 3/SOISemaforyMW/priorProducer.c
+	"library.h"
+
+1462654254 source:/home/zwirek/SOI/Lab 3/SOISemaforyMW/prodCons.c
+	"library.h"
+
+1462791371 /home/zwirek/SOI/Lab 3/SOISemaforyMW/queue.h
+	</usr/include/sys/shm.h>
+	</usr/include/sys/types.h>
+	</usr/include/sys/ipc.h>
+	</usr/include/sys/sem.h>
+	</usr/include/sys/wait.h>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<sched.h>
+
+1462789977 source:/home/zwirek/SOI/Lab 3/SOISemaforyMW/queue.c
+	"queue.h"
+
